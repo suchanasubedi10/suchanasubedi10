@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suchana Subedi</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Enthusiast</h3><br><br>
+<h3 align="center">A passionate Electronics & Information Engineering student focused on Machine Learning | Deep Learning | Generative AI | Computer Vision</h3><br><br>
 <p aligh="left"><img align="right" alt="Coding" height ="280" src="https://miro.medium.com/v2/resize:fit:1358/1*qdAW1TjCN57h1lbuuzvchg.gif"></p>
 
 <p align="left"> <a href="https://twitter.com/no_username" target="blank"><img src="https://img.shields.io/twitter/follow/no_username?logo=twitter&style=for-the-badge" alt="no_username" /></a> </p>
 
 - 🔭 I’m currently studying at **Western Regional Campus**
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **Generative AI and advancing toward intelligent systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
