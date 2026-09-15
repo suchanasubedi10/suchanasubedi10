@@ -1,121 +1,96 @@
 # Hi, I'm Suchana Subedi
 
-I am a recent BE graduate in Electronics, Communication and Information Engineering from Western Regional Campus, IOE, Tribhuvan University. I am interested in **AI/ML, computer vision, deep learning, and practical Generative AI applications**.
+I'm an Electronics, Communication and Information Engineering graduate with a growing focus on **Artificial Intelligence and Machine Learning**.
 
-I have hands-on experience with machine learning experiments, deep learning model development, computer vision projects, data preprocessing, and IoT-based intelligent systems. I am currently learning and building practical **Generative AI, NLP, and RAG applications**.
+My journey in AI started with machine learning and computer vision, where I worked on projects such as **Facial Emotion Recognition**. I later explored the combination of **IoT and Machine Learning** through my **HydroWatch AI** project for smart aquaculture.
+
+Currently, I'm expanding my skills in **Generative AI, NLP, LLMs, and RAG**, with an interest in building AI systems that can solve practical real-world problems.
 
 ---
 
-## Current Focus
+## What I'm Working On
 
-- Python development and problem solving
-- Machine learning and deep learning projects
-- Computer vision and image classification
+- Machine Learning and Deep Learning
+- Computer Vision and Image Classification
 - Generative AI and Large Language Models
 - Retrieval-Augmented Generation (RAG)
-- NLP and text embeddings
-- LangChain and vector databases
-- FastAPI-based AI applications
-- Building practical intelligent systems
+- NLP, embeddings and vector databases
+- LangChain and Hugging Face
+- AI application development with Python and FastAPI
 
 ---
 
-## Highlighted Projects
+## Featured Projects
 
-### Facial Emotion Recognition System
+### Facial Emotion Recognition
 
-A computer vision and deep learning project for recognizing human emotions from facial images using the FER2013 dataset.
+A deep learning project that detects and classifies human emotions from facial images using the **FER2013 dataset**.
 
-**Technologies:** Python, TensorFlow, Keras, CNN, VGG16, TinyVGG, OpenCV
+**Technologies:** `Python` `TensorFlow` `Keras` `CNN` `VGG16` `TinyVGG` `OpenCV`
 
-- Worked with the FER2013 facial expression dataset
-- Implemented CNN-based emotion classification
+- Built CNN-based emotion classification models
 - Experimented with VGG16 transfer learning and TinyVGG
 - Performed image preprocessing and model evaluation
-- Achieved approximately **71.45% test accuracy**
+- Achieved **71.45% test accuracy**
 
-[View Repository](https://github.com/suchanasubedi10/Emotion-Detection-System)
+[View Project](https://github.com/suchanasubedi10/Emotion-Detection-System)
 
 ---
 
-### HydroWatch AI — Smart Aquaculture Water Monitoring
+### HydroWatch AI
 
-An IoT and machine learning-based water quality monitoring system designed for smart aquaculture and fish farming.
+An IoT and machine learning project developed to monitor and classify **water quality for smart aquaculture**.
 
-**Technologies:** Python, ESP32, pH Sensor, TDS Sensor, Scikit-learn, Random Forest, FastAPI
+**Technologies:** `Python` `ESP32` `pH` `TDS` `Scikit-learn` `Random Forest` `FastAPI`
 
-- Collects water quality data using pH and TDS sensors
+- Collects water-quality data using pH and TDS sensors
 - Uses ESP32 for sensor-based data collection
-- Classifies water quality using Machine Learning
-- Implemented a Random Forest classification model
-- Combined sensor data with public datasets for model development
-- Includes data preprocessing, analysis and model evaluation
-- Designed for future virtual sensors, forecasting and intelligent recommendations
+- Applies machine learning for water-quality classification
+- Developed and evaluated a Random Forest model
+- Combines IoT data with public datasets
+- Designed for future intelligent monitoring and prediction
 
-[View Repository](https://github.com/suchanasubedi10/Smart-Aquaculture-Water-Monitoring-System)
-
----
-
-### Generative AI & RAG Applications
-
-Currently learning and building practical applications using Large Language Models and Retrieval-Augmented Generation.
-
-**Technologies:** Python, LangChain, Hugging Face, Gemini, ChromaDB
-
-- Document processing and question answering
-- Text embeddings and semantic search
-- Vector database integration
-- Retrieval-Augmented Generation pipelines
-- Exploring LLM-powered applications and AI agents
+[View Project](https://github.com/suchanasubedi10/Smart-Aquaculture-Water-Monitoring-System)
 
 ---
 
-## Technical Skills
+### AI Video Assistant
 
-### Programming
-- Python
-- C
-- C++
-- MATLAB
+An AI-powered video assistant that allows users to interact with video content through **speech recognition, transcription and AI-generated responses**.
 
-### Machine Learning & Data Science
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Random Forest
-- Logistic Regression
-- Gradient Boosting
+**Technologies:** `Python` `Whisper` `LLM` `NLP` `LangChain` `FastAPI`
 
-### Deep Learning & Computer Vision
-- TensorFlow
-- Keras
-- PyTorch
-- OpenCV
-- CNN
-- Transfer Learning
-- Image Classification
-- VGG16
+- Processes and transcribes video and audio content
+- Uses speech-to-text to extract information from videos
+- Allows users to interact with video content using natural language
+- Uses LLMs to understand and respond to user queries
+- Combines speech processing, NLP and Generative AI in a single application
 
-### Generative AI & NLP
-- LangChain
-- Hugging Face
-- Google Gemini
-- LLMs
-- RAG
-- Text Embeddings
-- ChromaDB
-- Vector Databases
-- Prompt Engineering
+[View Project](YOUR_AI_VIDEO_ASSISTANT_REPOSITORY_LINK)
 
-### Development & Tools
-- FastAPI
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+---
+
+## Skills
+
+**Programming:** Python, C, C++, MATLAB
+
+**Machine Learning:** Scikit-learn, Pandas, NumPy, Random Forest, Gradient Boosting
+
+**Deep Learning:** TensorFlow, Keras, PyTorch, CNNs, Transfer Learning
+
+**Computer Vision:** OpenCV, Image Classification, VGG16
+
+**Generative AI:** LLMs, RAG, LangChain, Hugging Face, Gemini, Embeddings, ChromaDB
+
+**Development:** FastAPI, Git, GitHub, VS Code, Jupyter, Google Colab
+
+---
+
+## Career Goals
+
+I aim to grow as an **AI/ML Engineer**, with a focus on **Deep Learning, Computer Vision and Generative AI**.
+
+My long-term goal is to build practical and reliable intelligent systems while continuing to develop through **advanced study, research and real-world AI projects**.
 
 ---
 
@@ -125,18 +100,3 @@ Currently learning and building practical applications using Large Language Mode
 
 Institute of Engineering, Paschimanchal Campus  
 Tribhuvan University, Nepal
-
----
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/suchanasubedi10">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suchana-subedi-33810b286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-**Email:** suchanasubedi07@gmail.com
