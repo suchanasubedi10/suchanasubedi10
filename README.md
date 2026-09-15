@@ -66,7 +66,7 @@ An AI-powered video assistant that allows users to interact with video content t
 - Uses LLMs to understand and respond to user queries
 - Combines speech processing, NLP and Generative AI in a single application
 
-[View Project](YOUR_AI_VIDEO_ASSISTANT_REPOSITORY_LINK)
+[View Project](https://github.com/suchanasubedi10/AI-Video-Assistant)
 
 ---
 
